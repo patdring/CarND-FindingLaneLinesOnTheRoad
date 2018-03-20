@@ -1,5 +1,4 @@
 # **Finding Lane Lines on the Road** 
-# **Finding Lane Lines on the Road** 
 
 ## In this project I detected lane lines in images using Python and OpenCV
 
