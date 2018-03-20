@@ -1,11 +1,4 @@
 # **Finding Lane Lines on the Road** 
-
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
----
-
 # **Finding Lane Lines on the Road** 
 
 ## In this project I detected lane lines in images using Python and OpenCV
@@ -33,13 +26,12 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-### 1. My pipeline consisted of following 6 steps
+### My pipeline consisted of following 6 steps
 
 ![alt text][image1]
 
 ## 1. The image is converted to grayscale
 
-![alt text][image2]
 
 ## 2. The grayscale image is blurred
 
@@ -51,11 +43,9 @@ The goals / steps of this project are the following:
 
 ## 4. Feature extraction with the Hough transformation
 
-![alt text][image5]
 
 ## 5. Only the interesting image section is taken into account (via masking)
 
-![alt text][image6]
 
 ## 6. Adding lines to the original image 
 
